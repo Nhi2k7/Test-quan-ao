@@ -1,0 +1,7 @@
+{
+  "name": "Gemini VTO",
+  "description": "A virtual try-on experience powered by Gemini AI. Upload your photo and a garment to see how it looks on you.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
